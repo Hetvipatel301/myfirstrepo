@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Home() {
   const skills = [
-    'Java','c','python','driving','sql'
+    'Java','c','python','sql'
   ];
 
   return (
